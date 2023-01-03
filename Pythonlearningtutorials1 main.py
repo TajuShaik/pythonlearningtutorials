@@ -1,0 +1,11 @@
+#Average of three numbers guven by user
+print (" Average of the three numbers")
+print("enter first value")
+a=float(input())
+print("enter second value")
+b=float(input())
+print("enter third value")
+c=float(input())
+Avg=float((a+b+c)/(3))
+print("Average of the given threes number")
+print("is",Avg)
